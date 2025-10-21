@@ -10,10 +10,10 @@
 #define WIFI_SSID "HOANG WIFI"
 #define WIFI_PASSWORD "hhhhhhhh"
 
-#define Web_API_KEY "AIzaSyD-f2CMpJkrXrjttgoPAouLPQon4jd5PWE"
-#define DATABASE_URL "https://hoanglsls-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define Web_API_KEY "AIzaSyD-f2CMpJkrXrjttgo"
+#define DATABASE_URL "https://user.asia-southeast1.firebasedatabase.app/"
 #define USER_EMAIL "akaybs@gmail.com"
-#define USER_PASS "chxhcnvn"
+#define USER_PASS "xxxxxxx"
 
 #define LED_PIN 2
 
